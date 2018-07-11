@@ -11,7 +11,11 @@ public class learnGit {
 		
 		System.out.println("Learning merge conflict");
 		
+		System.out.println("New Developer added to project");
 		System.out.println("Hello I am new developer Mr. M");
+
+		
+
 	}
 
 }
