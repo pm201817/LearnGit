@@ -10,6 +10,8 @@ public class learnGit {
 		System.out.println("Lets learn Git + Eclipse practivally...!!!");
 		
 		System.out.println("Learning merge conflict");
+		
+		System.out.println("Hello I am new developer Mr. M");
 	}
 
 }
